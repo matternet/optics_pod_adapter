@@ -1,0 +1,4 @@
+float16 center_x
+float16 center_y
+float16 size_x
+float16 size_y
